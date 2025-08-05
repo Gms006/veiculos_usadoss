@@ -1,0 +1,25 @@
+
+{
+  "veiculo_keywords": [
+    "FIAT",
+    "FORD",
+    "VW",
+    "VOLKSWAGEN",
+    "CHEVROLET",
+    "GM",
+    "HONDA",
+    "TOYOTA",
+    "RENAULT",
+    "HYUNDAI",
+    "CITROEN",
+    "NISSAN",
+    "JEEP",
+    "AUTOMOVEL",
+    "VEICULO",
+    "CARRO",
+    "PICKUP",
+    "CAMINHONETE",
+    "CAMINHAO"
+  ],
+  "blacklist": []
+}

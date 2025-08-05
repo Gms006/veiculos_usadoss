@@ -1,0 +1,219 @@
+2025-08-05 08:26:19,982 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:26:19,982 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:26:19,982 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:26:19,982 - modules.estoque_veiculos - ERROR - Tentativa de acesso a arquivo fora do diretório permitido: /home/ubuntu/nfe_project/test_xmls/nfe_teste.xml
+2025-08-05 08:26:19,982 - modules.estoque_veiculos - WARNING - Nenhum registro extraído dos XMLs
+2025-08-05 08:26:19,983 - __main__ - WARNING - DataFrame vazio após processamento
+2025-08-05 08:26:19,983 - __main__ - WARNING - Nenhum dado processado.
+2025-08-05 08:26:19,983 - __main__ - ERROR - Falha no processamento
+2025-08-05 08:26:32,212 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:26:32,212 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:26:32,213 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:26:32,213 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:26:32,213 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:26:32,215 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:26:32,215 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:26:32,228 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:26:32,246 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:26:32,247 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:26:32,319 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:26:32,502 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:28:20,976 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:28:20,977 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:28:20,977 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:28:20,977 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:28:20,977 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:28:20,978 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:28:20,979 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:28:20,980 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:28:20,982 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:28:20,983 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:28:21,019 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:28:21,050 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:29:23,489 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:29:23,490 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:29:23,490 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:29:23,490 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:29:23,490 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:29:23,491 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:29:23,492 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:29:23,493 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:29:23,496 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:29:23,496 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:29:23,533 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:29:23,566 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:30:20,348 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:30:20,348 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:30:20,348 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:30:20,348 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:30:20,349 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:30:20,350 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:30:20,350 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:30:20,351 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:30:20,354 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:30:20,354 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:30:20,392 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:30:20,425 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:31:12,964 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:31:12,964 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:31:12,964 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:31:12,964 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:31:12,965 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:31:12,966 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:31:12,966 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:31:12,968 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:31:12,970 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:31:12,971 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:31:13,009 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:31:13,041 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:32:07,206 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:32:07,206 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:32:07,206 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:32:07,206 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:32:07,207 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:32:07,208 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:32:07,208 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:32:07,210 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:32:07,213 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:32:07,213 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:32:07,256 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:32:07,292 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:32:18,126 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:32:18,126 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:32:18,126 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:32:18,127 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:32:18,127 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:32:18,128 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:32:18,129 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:32:18,130 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:32:18,133 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:32:18,134 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:32:18,176 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:32:18,213 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:33:57,912 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:33:57,912 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:33:57,912 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:33:57,913 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:33:57,913 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:33:57,914 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:33:57,915 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:33:57,916 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:33:57,919 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:33:57,919 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:33:57,958 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:33:57,992 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:34:55,431 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:34:55,431 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:34:55,431 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:34:55,432 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:34:55,432 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:34:55,433 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:34:55,434 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:34:55,435 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:34:55,438 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:34:55,438 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:34:55,481 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:34:55,516 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:35:46,363 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:35:46,363 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:35:46,363 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:35:46,364 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:35:46,364 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:35:46,365 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:35:46,366 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:35:46,367 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:35:46,369 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:35:46,370 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:35:46,407 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:35:46,439 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:36:39,176 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:36:39,177 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:36:39,177 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:36:39,177 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:36:39,177 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:36:39,178 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:36:39,179 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:36:39,180 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:36:39,183 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:36:39,183 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:36:39,221 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:36:39,254 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:37:30,873 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:37:30,873 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:37:30,873 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:37:30,874 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:37:30,874 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:37:30,875 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:37:30,876 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:37:30,878 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:37:30,880 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:37:30,881 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:37:30,924 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:37:30,961 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:39:14,479 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:39:14,479 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:39:14,479 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:39:14,480 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:39:14,480 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:39:14,481 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:39:14,482 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:39:14,484 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:39:14,486 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:39:14,487 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:39:14,531 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:39:14,570 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:41:35,433 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:41:35,433 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:41:35,433 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:41:35,433 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:41:35,434 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:41:35,435 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:41:35,435 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:41:35,437 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:41:35,440 - modules.estoque_veiculos - INFO - Tipos de nota: {'Entrada': 1}
+2025-08-05 08:41:35,440 - modules.estoque_veiculos - INFO - Classificações: {'Consumo': 1}
+2025-08-05 08:41:35,481 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:41:35,518 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:42:22,376 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:42:22,376 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:42:22,376 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:42:22,376 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:42:22,377 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 08:42:22,378 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 08:42:22,378 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 08:42:22,380 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 08:42:22,382 - modules.estoque_veiculos - INFO - Tipos de nota: {'Saída': 1}
+2025-08-05 08:42:22,383 - modules.estoque_veiculos - INFO - Classificações: {'Veículo': 1}
+2025-08-05 08:42:22,435 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 08:42:22,471 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 08:57:29,906 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 08:57:29,906 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 08:57:29,906 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 08:57:29,906 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 08:57:29,906 - modules.estoque_veiculos - WARNING - Erro ao obter número da NF: prefix 'nfe' not found in prefix map
+2025-08-05 08:57:29,906 - modules.estoque_veiculos - ERROR - Erro geral ao processar XML /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml: prefix 'nfe' not found in prefix map
+2025-08-05 08:57:29,907 - modules.estoque_veiculos - WARNING - Nenhum registro extraído dos XMLs
+2025-08-05 08:57:29,907 - __main__ - WARNING - DataFrame vazio após processamento
+2025-08-05 08:57:29,907 - __main__ - WARNING - Nenhum dado processado.
+2025-08-05 08:57:29,907 - __main__ - ERROR - Falha no processamento
+2025-08-05 09:00:40,580 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 09:00:40,580 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 09:00:40,581 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 09:00:40,581 - modules.estoque_veiculos - INFO - Processando XML: /home/ubuntu/nfe_project/Empresas-de-ve-culos-main/test_xmls/nfe_teste.xml
+2025-08-05 09:00:40,581 - modules.estoque_veiculos - INFO - Processando NF número: 1
+2025-08-05 09:00:40,582 - modules.estoque_veiculos - INFO - Encontrados 1 itens na NF
+2025-08-05 09:00:40,583 - modules.estoque_veiculos - INFO - XML processado com sucesso: 1 registros extraídos
+2025-08-05 09:00:40,584 - modules.estoque_veiculos - INFO - DataFrame criado com 1 registros
+2025-08-05 09:00:40,587 - modules.estoque_veiculos - INFO - Tipos de nota: {'Saída': 1}
+2025-08-05 09:00:40,587 - modules.estoque_veiculos - INFO - Classificações: {'Veículo': 1}
+2025-08-05 09:00:40,626 - __main__ - INFO - Pipeline executado com sucesso
+2025-08-05 09:00:40,654 - __main__ - INFO - Relatório salvo em: /home/ubuntu/nfe_project/relatorio_teste.xlsx
+2025-08-05 09:00:46,362 - modules.estoque_veiculos - INFO - XML extraído: subpasta1/nfe_com_acentos_e_├º.xml -> subpasta1_nfe_com_acentos_e__º.xml
+2025-08-05 09:00:46,362 - __main__ - INFO - Processando 1 arquivos XML
+2025-08-05 09:00:46,362 - __main__ - INFO - Iniciando pipeline com 1 arquivos XML
+2025-08-05 09:00:46,362 - modules.estoque_veiculos - INFO - Iniciando processamento de 1 arquivos XML
+2025-08-05 09:00:46,362 - modules.estoque_veiculos - ERROR - Tentativa de acesso a arquivo fora do diretório permitido: /tmp/nfe_extract_toj3q0k3/subpasta1_nfe_com_acentos_e__º.xml
+2025-08-05 09:00:46,362 - modules.estoque_veiculos - WARNING - Nenhum registro extraído dos XMLs
+2025-08-05 09:00:46,363 - __main__ - WARNING - DataFrame vazio após processamento
+2025-08-05 09:00:46,363 - __main__ - WARNING - Nenhum dado processado.
+2025-08-05 09:00:46,363 - __main__ - ERROR - Falha no processamento
